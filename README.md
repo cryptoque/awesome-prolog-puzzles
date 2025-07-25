@@ -19,12 +19,12 @@ This is a collection of logic puzzles solved in Prolog, demonstrating the power 
 
 ---
 
-### 2. **Circle of Unrequited Love**
+### 2. **Circle of Unrequited Love 💔 **
 
 > Eight people, all loving someone else. And no one’s love is returned.
 > The clues are relational, recursive, and tricky. Can you reconstruct the entire circle of unrequited affection?
 
-[Puzzle Description](02_circle_of_unrequited_love.md) | 💔 [Prolog Solution](02_circle_of_unrequited_love.pl)
+[Puzzle Description](02_circle_of_unrequited_love.md) | [Prolog Solution](02_circle_of_unrequited_love.pl)
 
 ---
 
