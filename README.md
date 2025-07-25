@@ -1,16 +1,14 @@
 # Awesome Prolog for Logic Puzzles
 
-If you're tired of bloated code and fuzzy logic, this is your antidote. Logic puzzles can get messy. In Prolog, they don’t.
+Logic puzzles can get messy. In Prolog, they don’t.
 
 This is where clarity wins and puzzles solve themselves, once you state the rules right. Turns out, when the logic is right, the code is short.
 
-Logic programming flips the usual mindset: you don’t tell the computer how to solve the puzzle, you tell it what must be true. The rest is just inference.
+Logic programming flips the usual mindset: you don’t tell the computer how to solve the puzzle, you tell it what must be true. The rest is just inference and backtracking.
 
-This is a collection of logic puzzles modeled in Prolog, demonstrating the power of logic programming for solving complex reasoning problems. Each puzzle includes a markdown description and a fully working prolog solution (".pl").
+This is a collection of logic puzzles solved in Prolog, demonstrating the power of logic programming for solving complex reasoning problems. Each puzzle includes a markdown description and a fully working prolog solution (`.pl`).
 
----
-
-## Included Puzzles
+## Puzzles Collection
 
 ### 1. **The Hidden Number**
 
@@ -48,10 +46,11 @@ This is a collection of logic puzzles modeled in Prolog, demonstrating the power
 
 ---
 
-## 🛠️ About This Project
+## About This Project
 
-* All puzzles are solved declaratively in **pure Prolog**, showcasing logical inference over brute-force search.
+* All puzzles are solved declaratively in pure Prolog, showcasing logical inference over procedural instruction.
 * Translations and encodings were carefully crafted to preserve the nuances of the original puzzles.
-* This repository is both a **demonstration of logic programming** and a growing **puzzle showcase**.
+* This is just the start. More puzzles coming soon.
+* Possibly with Python and Haskell solutions, for those who like their logic with loops or lambdas. Because Python, when written declaratively, can mimic logic programming, and functional programming (Lambda calculus) and logic programming (Predicate logic) are just two sides of the same coin.
 
 If you enjoy logic, language, and symbolic reasoning, this is for you.
