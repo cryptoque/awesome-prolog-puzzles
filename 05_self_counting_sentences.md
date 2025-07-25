@@ -21,6 +21,6 @@ Every blank must be filled with an Arabic numeral (0–9) so that each statement
 
 Can you find the unique set of digits that makes this sentence perfectly self-descriptive?  
 
-## Solution
+## Solution (WIP)
 
-See [`05_self_counting_sentences.pl`](05_self_counting_sentences.pl) for the Prolog implementation.
+Coming soon. PRs welcome.
