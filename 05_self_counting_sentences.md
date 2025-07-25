@@ -15,7 +15,7 @@ Fill in the blanks of this sentence with the correct digits (0–9) so that the 
 >  the digit 8 appears _ times,  
 >  the digit 9 appears _ times.”
 
-Every blank must be filled with an **Arabic numeral (0–9)** so that each statement in the sentence is true.  
+Every blank must be filled with an Arabic numeral (0–9) so that each statement in the sentence is true.  
 
 ---
 
