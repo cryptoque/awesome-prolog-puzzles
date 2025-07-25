@@ -42,7 +42,7 @@ This is a collection of logic puzzles solved in Prolog, demonstrating the power 
 > The sleeping prince and the seven dwarfs, and some deadly/delicious Apples.
 > With contradictory statements and only logic to go on, can you awaken the prince without poisoning him?
 
-[Puzzle Description](04_sleeping_prince.md) | [Prolog Solution](04_sleeping_prince.pl)
+[Puzzle Description](04_sleeping_prince.md) | [Prolog Solution](04_sleeping_prince.pl) | [Python Solution](04_sleeping_prince.py)
 
 ---
 
@@ -51,6 +51,8 @@ This is a collection of logic puzzles solved in Prolog, demonstrating the power 
 * All puzzles are solved declaratively in pure Prolog, showcasing logical inference over procedural instruction.
 * Translations and encodings were carefully crafted to preserve the nuances of the original puzzles.
 * This is just the start. More puzzles coming soon.
-* Possibly with Python and Haskell solutions, for those who like their logic with loops or lambdas. Because Python, when written declaratively, can mimic logic programming, and functional programming (Lambda calculus) and logic programming (Predicate logic) are just two sides of the same coin.
+* Possibly will add Python and Haskell solutions, for those who like their logic with loops or lambdas. [1]
 
-If you enjoy logic, language, and symbolic reasoning, this is for you.
+[1] Because Python, when written declaratively, can mimic logic programming, and functional programming (Lambda calculus) and logic programming (Predicate logic) are just two sides of the same coin.
+
+**If you enjoy logic, language, and symbolic reasoning, this is for you.**
