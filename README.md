@@ -46,7 +46,42 @@ Difficulty: **3/5**
 
 [Puzzle Description](04_sleeping_prince.md) | [Prolog Solution](04_sleeping_prince.pl) | [Python Solution](04_sleeping_prince.py)
 
+## Getting Started
 
+To run the Prolog files in this repository, you’ll need:
+
+- **[SWI-Prolog](https://www.swi-prolog.org/)** — a popular open-source Prolog implementation.
+
+### Install SWI-Prolog
+
+**macOS (with Homebrew):**
+```bash
+brew install swi-prolog
+```
+**Linux**
+
+```bash
+sudo apt-get install swi-prolog  # Ubuntu or Debian
+sudo pacman -S swi-prolog        # Arch-based
+sudo dnf install pl              # Fedora
+```
+**Windows**
+
+Download the installer from the [official site](https://www.swi-prolog.org/).
+
+### Basic Prolog Environment
+
+- Once installed, to start a prolog REPL, use `swipl`.
+- To load a prolog file in a REPL, use e.g.
+  ```
+  ?- ['01_the_hidden_number'].
+  ```
+- Then inside prolog REPL:
+  ```
+  ?- solve.
+  ```
+
+----- 
 ## About This Project
 
 * All puzzles are solved declaratively in pure Prolog, showcasing logical inference over procedural instruction.
