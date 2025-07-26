@@ -1,12 +1,15 @@
 # Awesome Prolog for Logic Puzzles
 
+This is a collection of logic puzzles solved in Prolog, demonstrating the power of logic programming for solving complex reasoning problems. Each puzzle includes a markdown description and a fully working prolog solution (`.pl`).
+
+## Why Prolog
+
 Logic puzzles can get messy. In Prolog, they don’t.
 
 This is where clarity wins and puzzles solve themselves, once you state the rules right. Turns out, when the logic is right, the code is short.
 
 Logic programming flips the usual mindset: you don’t tell the computer how to solve the puzzle by giving procedural instructions, you tell it what must be true. The rest is inference and backtracking.
 
-This is a collection of logic puzzles solved in Prolog, demonstrating the power of logic programming for solving complex reasoning problems. Each puzzle includes a markdown description and a fully working prolog solution (`.pl`).
 
 ## Puzzles Collection
 
